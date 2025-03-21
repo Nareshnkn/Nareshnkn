@@ -9,7 +9,7 @@ I’m **Naresh**, a passionate **software engineer** specializing in the **MERN 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/naresh-kumar-n-7a1639117/)
 
-[![Email](https://img.shields.io/badge/Email-naresh@example.com-green)](mailto:jobsformajestic@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jobsformajestic@gmail.com)](mailto:jobsformajestic@gmail.com)
 
 ---
 
