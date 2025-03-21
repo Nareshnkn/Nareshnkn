@@ -41,11 +41,6 @@ ensured secure API handling with CORS management.
 ### [📦Personal portfolio project ](https://github.com/Nareshnkn/naresh-portfolio-28-09-2024))
 * Developed a personal portfolio website using React , Chakra UI for
 responsive design, and Formik for form management.
----
-
-## 📈 GitHub Stats
-
-![Naresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naresh&show_icons=true&theme=radical)
 
 
 ---
